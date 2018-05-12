@@ -1,0 +1,30 @@
+_repo: Famous-Firesides-of-French-Canada_30674
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 30674-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Alloway, Mary Wilson
+    birthdate: 1848
+    deathdate: 1919
+    gutenberg_agent_id: '34747'
+    url: http://www.gutenberg.org/2009/agents/34747
+description: Château de Ramezay; Heroes of the past; Chapel of Notre Dame-de-la-Victoire;
+  Le Seminaire; Cathedrals and cloisters; Massacre of Lachine; Château de Vaudreuil;
+  Battle of the Plains; Canada under English rule; American invasion; The continental
+  army in Canada; Fur kings; Interesting sites; Famous names; Echoes from the past.
+gutenberg_issued: '2009-12-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30674'
+  lccn: '03012472'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Québec (Province) -- History'
+- !lcc 'F1001'
+title: Famous Firesides of French Canada
+url: http://www.gutenberg.org/ebooks/30674
